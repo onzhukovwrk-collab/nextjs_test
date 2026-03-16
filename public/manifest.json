@@ -1,0 +1,7 @@
+{
+  "name": "Pushwoosh Next.js Demo",
+  "short_name": "PW Demo",
+  "gcm_sender_id": "317454897280",
+  "display": "standalone",
+  "gcm_user_visible_only": true
+}
